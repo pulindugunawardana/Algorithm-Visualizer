@@ -33,10 +33,6 @@ An application which can visualize a few basic sorting and searching algorithms.
 
 <img width="801" height="688" alt="Screenshot 2026-11-13 161920" src="https://github.com/user-attachments/assets/c8eb7ecf-8369-4bb6-8670-879834830afe" /><img width="894" height="395" alt="Screenshot 2026-11-13 162008" src="https://github.com/user-attachments/assets/1dc5cdac-ef7a-47b9-99a2-b74695e214ef" />
 
-<img width="894" height="395" alt="Screenshot 2026-11-13 162008" src="https://github.com/user-attachments/assets/1e907f07-b0c4-454e-ae26-64c359328aa0" />
-
-
-
 ## Problems & Decisions
 
 -  There was no possible way to demonstrate the searching algorithm without using a GUI other  than the pointing method used.
