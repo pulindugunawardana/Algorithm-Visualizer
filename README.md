@@ -1,7 +1,8 @@
 # Algorithm-Visualizer
  An application which can visualize a few basic sorting and searching algorithms.
+ 
 ## Goal
-An application which can visualize a few basic sorting and searching algoithms.
+An application which can visualize a few basic sorting and searching algorithms.
 
 **Status:** `completed`  
 **Started:**  `11/07/2026`
@@ -22,7 +23,6 @@ An application which can visualize a few basic sorting and searching algoithms.
 -  If sorting algorithms are used the visualization is done through matplotlib.
 -  For searching algorithms the position is pointed to as the visualizer.
 
-
 ## Problems & Decisions
 
 -  There was no possible way to demonstrate the searching algorithm without using a GUI other  than the pointing method used.
@@ -31,16 +31,16 @@ An application which can visualize a few basic sorting and searching algoithms.
 
 ## Results
 
+<img width="801" height="688" alt="Screenshot 2026-11-13 161920" src="https://github.com/user-attachments/assets/c8eb7ecf-8369-4bb6-8670-879834830afe" /><img width="894" height="395" alt="Screenshot 2026-11-13 162008" src="https://github.com/user-attachments/assets/1dc5cdac-ef7a-47b9-99a2-b74695e214ef" />
+
+<img width="894" height="395" alt="Screenshot 2026-11-13 162008" src="https://github.com/user-attachments/assets/1e907f07-b0c4-454e-ae26-64c359328aa0" />
+
+
+
 ## Problems & Decisions
 
 -  There was no possible way to demonstrate the searching algorithm without using a GUI other  than the pointing method used.
 -  Due to the array being altered by other methods of the class the `.copy()` method had to be  used to preserve the initial array.
 -  In order to make the project complicated the animation is created through repeatedly updating the changing values that the function outputs.
-
-## Results
-
-![[Pasted image 20261113161926.png|408]]
-
-![[Pasted image 20261113162011.png]]
 
 
